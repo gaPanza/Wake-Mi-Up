@@ -1,0 +1,8 @@
+{
+  "name": "PanzaAlarm",
+  "app_id": "29a1ac23",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
